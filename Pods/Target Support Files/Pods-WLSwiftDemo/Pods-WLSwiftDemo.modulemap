@@ -1,0 +1,6 @@
+framework module Pods_WLSwiftDemo {
+  umbrella header "Pods-WLSwiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

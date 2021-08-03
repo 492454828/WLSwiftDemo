@@ -1,0 +1,6 @@
+framework module Pods_WLSwiftDemo_WLSwiftDemoUITests {
+  umbrella header "Pods-WLSwiftDemo-WLSwiftDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
