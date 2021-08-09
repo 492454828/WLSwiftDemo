@@ -1,16 +1,32 @@
 PODS:
-  - Alamofire (5.4.1)
+  - Alamofire (5.4.3)
+  - ESTabBarController-swift (2.8.0)
+  - FSPagerView (0.8.3)
+  - HandyJSON (5.0.2)
+  - SwiftyJSON (5.0.1)
 
 DEPENDENCIES:
-  - Alamofire (= 5.4.1)
+  - Alamofire
+  - ESTabBarController-swift
+  - FSPagerView
+  - HandyJSON
+  - SwiftyJSON
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - ESTabBarController-swift
+    - FSPagerView
+    - HandyJSON
+    - SwiftyJSON
 
 SPEC CHECKSUMS:
-  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  ESTabBarController-swift: 05593a6ad64700b03c0eb60ff625916370aa4136
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
 
-PODFILE CHECKSUM: c344417af7f37c8b3899ff8f0c1216b6cb8cc668
+PODFILE CHECKSUM: 152c34d10a9332f4396da70fa23d9d479bcd38a4
 
 COCOAPODS: 1.9.1
