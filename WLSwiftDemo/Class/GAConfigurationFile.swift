@@ -10,9 +10,9 @@ import UIKit
 import Foundation
 
 // 屏幕宽度
-let SCREEN_WIDTH = UIScreen.main.bounds.size.width;
+let kScreenWidth = UIScreen.main.bounds.size.width;
 // 屏幕高度
-let SCREEN_HEIGHT = UIScreen.main.bounds.size.height;
+let kScreenHeight = UIScreen.main.bounds.size.height;
 
 // 状态栏高度
 let STATUSBAR_HIGH = is_iPhoneXSeries() ? 44 : 20;

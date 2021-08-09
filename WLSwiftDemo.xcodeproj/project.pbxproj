@@ -14,15 +14,15 @@
 		4F462EE526B970B20093F75F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F462EE326B970B20093F75F /* LaunchScreen.storyboard */; };
 		4F462EF026B970B20093F75F /* WLSwiftDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F462EEF26B970B20093F75F /* WLSwiftDemoTests.swift */; };
 		4F462EFB26B970B20093F75F /* WLSwiftDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F462EFA26B970B20093F75F /* WLSwiftDemoUITests.swift */; };
-		4F47893D26BC10D600AB8746 /* MYTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47893726BC10D600AB8746 /* MYTabBar.swift */; };
-		4F47893F26BC10D600AB8746 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F47893926BC10D600AB8746 /* HomeViewController.xib */; };
-		4F47894026BC10D600AB8746 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F47893A26BC10D600AB8746 /* HomeViewController.swift */; };
-		4F617D1E26BEBACA001AFB4F /* GARootTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617D0826BEBACA001AFB4F /* GARootTabBarController.swift */; };
 		4F617D3A26BEBAD1001AFB4F /* GABaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617D3726BEBAD1001AFB4F /* GABaseViewController.swift */; };
 		4F617D3B26BEBAD1001AFB4F /* GABaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617D3826BEBAD1001AFB4F /* GABaseNavigationController.swift */; };
 		4F617D3C26BEBAD1001AFB4F /* GABaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617D3926BEBAD1001AFB4F /* GABaseView.swift */; };
 		4F617D4126BEBC8C001AFB4F /* GAConfigurationFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617D4026BEBC8C001AFB4F /* GAConfigurationFile.swift */; };
 		4F617D6E26BFC26C001AFB4F /* NetRequestManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617D6D26BFC26C001AFB4F /* NetRequestManager.swift */; };
+		4F617DDF26C161CC001AFB4F /* GARootTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617DDD26C161CC001AFB4F /* GARootTabBarController.swift */; };
+		4F617DE026C161CC001AFB4F /* MYTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617DDE26C161CC001AFB4F /* MYTabBar.swift */; };
+		4F617DE926C1623D001AFB4F /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F617DE726C1623D001AFB4F /* HomeViewController.xib */; };
+		4F617DEA26C1623D001AFB4F /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F617DE826C1623D001AFB4F /* HomeViewController.swift */; };
 		5DDBE108A4033250D033D16B /* Pods_WLSwiftDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52BFD8451920051D813E3CEC /* Pods_WLSwiftDemo.framework */; };
 		80984677E52B7A87E2553FE7 /* Pods_WLSwiftDemo_WLSwiftDemoUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54281D7F43FD8D64C389DDF1 /* Pods_WLSwiftDemo_WLSwiftDemoUITests.framework */; };
 		B90BC22914E058376F87A927 /* Pods_WLSwiftDemoTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6722325664BA57EBB00732A5 /* Pods_WLSwiftDemoTests.framework */; };
@@ -60,15 +60,15 @@
 		4F462EF626B970B20093F75F /* WLSwiftDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WLSwiftDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F462EFA26B970B20093F75F /* WLSwiftDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WLSwiftDemoUITests.swift; sourceTree = "<group>"; };
 		4F462EFC26B970B20093F75F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4F47893726BC10D600AB8746 /* MYTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MYTabBar.swift; sourceTree = "<group>"; };
-		4F47893926BC10D600AB8746 /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
-		4F47893A26BC10D600AB8746 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
-		4F617D0826BEBACA001AFB4F /* GARootTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GARootTabBarController.swift; sourceTree = "<group>"; };
 		4F617D3726BEBAD1001AFB4F /* GABaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GABaseViewController.swift; sourceTree = "<group>"; };
 		4F617D3826BEBAD1001AFB4F /* GABaseNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GABaseNavigationController.swift; sourceTree = "<group>"; };
 		4F617D3926BEBAD1001AFB4F /* GABaseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GABaseView.swift; sourceTree = "<group>"; };
 		4F617D4026BEBC8C001AFB4F /* GAConfigurationFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GAConfigurationFile.swift; sourceTree = "<group>"; };
 		4F617D6D26BFC26C001AFB4F /* NetRequestManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetRequestManager.swift; sourceTree = "<group>"; };
+		4F617DDD26C161CC001AFB4F /* GARootTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GARootTabBarController.swift; sourceTree = "<group>"; };
+		4F617DDE26C161CC001AFB4F /* MYTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MYTabBar.swift; sourceTree = "<group>"; };
+		4F617DE726C1623D001AFB4F /* HomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = HomeViewController.xib; path = ../../../../../../.Trash/HomeViewController.xib; sourceTree = "<group>"; };
+		4F617DE826C1623D001AFB4F /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = ../../../../../../.Trash/HomeViewController.swift; sourceTree = "<group>"; };
 		52BFD8451920051D813E3CEC /* Pods_WLSwiftDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WLSwiftDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		54281D7F43FD8D64C389DDF1 /* Pods_WLSwiftDemo_WLSwiftDemoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WLSwiftDemo_WLSwiftDemoUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		57FA2BBE7299220AC019E071 /* Pods-WLSwiftDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WLSwiftDemoTests.release.xcconfig"; path = "Target Support Files/Pods-WLSwiftDemoTests/Pods-WLSwiftDemoTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -175,7 +175,6 @@
 				4F617D4026BEBC8C001AFB4F /* GAConfigurationFile.swift */,
 				4F617D0326BEB978001AFB4F /* Tools */,
 				4F617D3626BEBAD1001AFB4F /* Base */,
-				4F617D0726BEBACA001AFB4F /* TabBar */,
 				4F47897E26BC199F00AB8746 /* Home */,
 			);
 			path = Class;
@@ -184,8 +183,10 @@
 		4F47897E26BC199F00AB8746 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				4F47893926BC10D600AB8746 /* HomeViewController.xib */,
-				4F47893A26BC10D600AB8746 /* HomeViewController.swift */,
+				4F617DE826C1623D001AFB4F /* HomeViewController.swift */,
+				4F617DE726C1623D001AFB4F /* HomeViewController.xib */,
+				4F617DB226C15C7E001AFB4F /* Model */,
+				4F617D9B26C15AEA001AFB4F /* View */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -198,18 +199,11 @@
 			path = Tools;
 			sourceTree = "<group>";
 		};
-		4F617D0726BEBACA001AFB4F /* TabBar */ = {
-			isa = PBXGroup;
-			children = (
-				4F47893726BC10D600AB8746 /* MYTabBar.swift */,
-				4F617D0826BEBACA001AFB4F /* GARootTabBarController.swift */,
-			);
-			path = TabBar;
-			sourceTree = "<group>";
-		};
 		4F617D3626BEBAD1001AFB4F /* Base */ = {
 			isa = PBXGroup;
 			children = (
+				4F617DDD26C161CC001AFB4F /* GARootTabBarController.swift */,
+				4F617DDE26C161CC001AFB4F /* MYTabBar.swift */,
 				4F617D3726BEBAD1001AFB4F /* GABaseViewController.swift */,
 				4F617D3826BEBAD1001AFB4F /* GABaseNavigationController.swift */,
 				4F617D3926BEBAD1001AFB4F /* GABaseView.swift */,
@@ -223,6 +217,20 @@
 				4F617D6D26BFC26C001AFB4F /* NetRequestManager.swift */,
 			);
 			path = NetRequest;
+			sourceTree = "<group>";
+		};
+		4F617D9B26C15AEA001AFB4F /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		4F617DB226C15C7E001AFB4F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 		4FE7410D185A590B3A61BA1A /* Frameworks */ = {
@@ -358,8 +366,8 @@
 			files = (
 				4F462EE526B970B20093F75F /* LaunchScreen.storyboard in Resources */,
 				4F462EE226B970B20093F75F /* Preview Assets.xcassets in Resources */,
+				4F617DE926C1623D001AFB4F /* HomeViewController.xib in Resources */,
 				4F462EDF26B970B20093F75F /* Assets.xcassets in Resources */,
-				4F47893F26BC10D600AB8746 /* HomeViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,16 +495,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F47894026BC10D600AB8746 /* HomeViewController.swift in Sources */,
 				4F462ED926B970B00093F75F /* AppDelegate.swift in Sources */,
 				4F617D4126BEBC8C001AFB4F /* GAConfigurationFile.swift in Sources */,
 				4F617D3C26BEBAD1001AFB4F /* GABaseView.swift in Sources */,
+				4F617DEA26C1623D001AFB4F /* HomeViewController.swift in Sources */,
 				4F617D3A26BEBAD1001AFB4F /* GABaseViewController.swift in Sources */,
 				4F617D3B26BEBAD1001AFB4F /* GABaseNavigationController.swift in Sources */,
+				4F617DE026C161CC001AFB4F /* MYTabBar.swift in Sources */,
 				4F462EDB26B970B00093F75F /* SceneDelegate.swift in Sources */,
-				4F47893D26BC10D600AB8746 /* MYTabBar.swift in Sources */,
-				4F617D1E26BEBACA001AFB4F /* GARootTabBarController.swift in Sources */,
 				4F617D6E26BFC26C001AFB4F /* NetRequestManager.swift in Sources */,
+				4F617DDF26C161CC001AFB4F /* GARootTabBarController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
